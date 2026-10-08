@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n, i, j;
+    int n;
     double x[50], y[50], xp, yp = 0.0, term;
 
     printf("Enter number of data points: ");
